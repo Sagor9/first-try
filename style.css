@@ -13,3 +13,64 @@ h1{
     color: blue;
     font-size: 25px;
 }
+
+.area{
+    font-size: 20px;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.routine{
+    color: cornflowerblue;
+    font-size: 20px;
+    font: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#tp{
+    font: bolder;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+#brief{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#time{
+    color: rgb(29, 183, 59);
+    font: x-large;
+}
+h4{
+    font-size: 28px;
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+}
+.block{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid royalblue;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 2%;
+}
+.inlineblock{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid goldenrod;
+    border-radius: 50px;
+    margin: 1%;
+    padding: 1%;
+    width: 28%;
+    display: inline-block;
+}
+.half{
+    border: 5px solid blueviolet;
+    padding: 1%;
+    margin: 2%;
+    text-decoration: unset;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+
